@@ -106,7 +106,7 @@ Answer - POST
 
 you’ll get a http packet ,as you move down a little you can see a http packet with POST method, we know that this is the method used by c2 server ,this packet has encoded value decode it using cyberchef
 
-Answer - %p⁹³!lL^Mz47E2GaT^y
+Answer - %p9^3!lL^Mz47E2GaT^y
 
 ### What is the credit card number stored inside the exfiltrated file?
 
