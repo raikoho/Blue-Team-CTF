@@ -19,8 +19,6 @@ So the log file was damaged or corupted. It is not possible to open it with Wire
 i just saw it without any filters.
 Answer: Nikto
 
-### Which automated scan tool did attacker use for web reconnaissance?
-
 ### After web reconnaissance activity, which technique did attacker use for directory listing discovery?
 
 Answer: Directory Brute Force
