@@ -55,11 +55,22 @@ Answer: t3m0-virtual-ma
 
 ![image](https://github.com/user-attachments/assets/bdd9abf3-f85a-4eaf-8f3f-be78ea06c469)
 
-i used filter : `tcp`
+i realised that it has to be also different file:
 
-Answer: // i dont know(( i need to analyze each packet. I will retur to this soon.
+![image](https://github.com/user-attachments/assets/d47912af-ea47-4240-b11b-a8b54cab1ad1)
+
+
+Answer: mmox:11:43:54
 
 ### How many unsuccessful SSH connection attempts were made by the attacker?
 
+![image](https://github.com/user-attachments/assets/250e6a1d-ecfa-484b-8b9c-443b74371c0d)
 
-Answer: 
+It needs to be different file.
+
+Answer: 7480
+
+### What technique is used to gain access?
+
+Brete Force Attack: 
+Answer: T1110
